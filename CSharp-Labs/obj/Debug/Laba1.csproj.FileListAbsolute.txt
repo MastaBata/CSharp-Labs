@@ -1,0 +1,8 @@
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\bin\Debug\CSharp-Labs.exe.config
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\bin\Debug\CSharp-Labs.exe
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\bin\Debug\CSharp-Labs.pdb
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\obj\Debug\CSharp-Labs.exe
+C:\Users\babci\source\repos\CSharp-Labs\CSharp-Labs\obj\Debug\CSharp-Labs.pdb
