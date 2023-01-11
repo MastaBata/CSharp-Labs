@@ -1,0 +1,8 @@
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\bin\Debug\Laba2.exe
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\bin\Debug\Laba2.pdb
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\obj\Debug\Laba2.csproj.AssemblyReference.cache
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\obj\Debug\Laba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\obj\Debug\Laba2.exe
+C:\Users\babci\source\repos\CSharp-Labs\Laba2\obj\Debug\Laba2.pdb
